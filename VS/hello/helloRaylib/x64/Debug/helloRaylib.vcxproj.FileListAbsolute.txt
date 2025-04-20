@@ -1,0 +1,4 @@
+C:\The Normie Programmer\Everything_C_CPP\VS\hello\helloRaylib\x64\Debug\helloRaylib.exe
+C:\The Normie Programmer\Everything_C_CPP\VS\hello\helloRaylib\x64\Debug\helloRaylib.vcxproj.CopyComplete
+C:\The Normie Programmer\Everything_C_CPP\VS\hello\helloRaylib\x64\Debug\raylib.dll
+C:\The Normie Programmer\Everything_C_CPP\VS\hello\helloRaylib\x64\Debug\glfw3.dll

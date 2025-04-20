@@ -1,0 +1,3 @@
+﻿  helloRaylib.cpp
+C:\The Normie Programmer\Everything_C_CPP\VS\hello\helloRaylib\helloRaylib.cpp(39,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  helloRaylib.vcxproj -> C:\The Normie Programmer\Everything_C_CPP\VS\hello\helloRaylib\x64\Debug\helloRaylib.exe

@@ -1,0 +1,5 @@
+﻿  RPGCharacter.cpp
+C:\The Normie Programmer\Everything_C_CPP\VS\hello\RPGCharacter\RPGCharacter.cpp(33,16): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\The Normie Programmer\Everything_C_CPP\VS\hello\RPGCharacter\RPGCharacter.cpp(82,4): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\The Normie Programmer\Everything_C_CPP\VS\hello\RPGCharacter\RPGCharacter.cpp(82,4): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  RPGCharacter.vcxproj -> C:\The Normie Programmer\Everything_C_CPP\VS\hello\RPGCharacter\x64\Debug\RPGCharacter.exe

@@ -1,0 +1,4 @@
+﻿  hello.cpp
+C:\The Normie Programmer\Everything_C_CPP\VS\hello\hello\hello.cpp(48,87): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\The Normie Programmer\Everything_C_CPP\VS\hello\hello\hello.cpp(143,21): warning C4804: '<': unsafe use of type 'bool' in operation
+  hello.vcxproj -> C:\The Normie Programmer\Everything_C_CPP\VS\hello\hello\x64\Debug\hello.exe
